@@ -1,8 +1,9 @@
 <?php
-$host = 'localhost'; // Ganti sesuai host Anda
-$dbname = 'db_event_info'; // Ganti dengan nama database Anda
-$username = 'root'; // Ganti dengan username database Anda
-$password = ''; // Ganti dengan password database Anda
+$host = 'centerbeam.proxy.rlwy.net';
+$dbname = 'railway';
+$username = 'root';
+$password = 'nvvVEpgHcgoxoioIMwTmpYmPyqClfRYu'; // ganti dengan password yang kamu copy dari dashboard Railway
+$port = 20107; // Ganti dengan password database Anda
 
 try {
     // Membuat koneksi PDO
